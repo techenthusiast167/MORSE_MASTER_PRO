@@ -106,6 +106,12 @@ MORSE MASTER PRO is a comprehensive Python-based application for encoding, decod
 **Optional**: Create or activate your virtual environment
 
 
+# The Tool Script Installation:
+
+**Follow the link below, copy and install the tool manually using nano**:
+- **https://gist.github.com/techenthusiast167/38163ce3f4217b0a49a52ec848925507**
+
+
 # Run the application
 
     python morse_master_pro.py
